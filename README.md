@@ -1,1 +1,1 @@
-Each python notebook comtains the code used to preprocess the datasets used in the master thesis of Sebastián Márquez, titled "PDAC Tissue Analysis Through Deep Learning Deconvolution: A Multi-Model Performance Study"
+Each python notebook contains the code used to preprocess the datasets used in the master thesis of Sebastián Márquez, titled "PDAC Tissue Analysis Through Deep Learning Deconvolution: A Multi-Model Performance Study"
